@@ -1,4 +1,4 @@
-# List-Based File Copy Script
+# $List-Based$ $File$ $Copy$ $Script$
 
 A script to copy files from one folder to another based on a list of strings.
 
